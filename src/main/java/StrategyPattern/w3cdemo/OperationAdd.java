@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPattern.w3cdemo;
 
 public class OperationAdd implements Strategy{
 

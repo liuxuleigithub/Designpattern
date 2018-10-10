@@ -1,4 +1,4 @@
-package ObserverPattern;
+package ObserverPattern.w3cDemo;
 
 public class HexaObserver extends Observer{
 

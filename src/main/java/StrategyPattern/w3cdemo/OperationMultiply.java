@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPattern.w3cdemo;
 
 public class OperationMultiply implements Strategy{
     public int doOperation(int num1, int num2) {

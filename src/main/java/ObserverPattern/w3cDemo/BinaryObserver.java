@@ -1,4 +1,4 @@
-package ObserverPattern;
+package ObserverPattern.w3cDemo;
 
 public class BinaryObserver extends Observer{
     public BinaryObserver(Subject subject){
