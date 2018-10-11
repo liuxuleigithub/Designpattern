@@ -2,37 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2258f0a7-69ad-43cb-a749-1770553f22e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/BinaryObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/HexaObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/HexaObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/ObserverPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/OctalObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StrategyPattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StrategyPattern/OperationAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/OperationAdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StrategyPattern/OperationMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/OperationMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StrategyPattern/OperationSubstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/OperationSubstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StrategyPattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StrategyPattern/StrategyPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/StrategyPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/BinaryObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/HexaObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/ObserverPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/OctalObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StrategyPattern/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/OperationAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StrategyPattern/OperationAdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/OperationMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StrategyPattern/OperationMultiply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/OperationSubstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StrategyPattern/OperationSubstract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/Strategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StrategyPattern/Strategy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/StrategyPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StrategyPattern/StrategyPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/OperationAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/OperationMultiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/OperationSubstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StrategyPattern/StrategyPatternDemo.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,113 +50,133 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="316454455">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="52" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/Context.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/objectAdapter/Usbip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="230">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperationAdd.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/OperationAdd.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Factory/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="69">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Factory/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
               <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Factory/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Factory/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+              <folding>
+                <element signature="e#94#95#0" expanded="true" />
                 <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperationMultiply.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/OperationMultiply.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Factory/ShapeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="414">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperationSubstract.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/OperationSubstract.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Factory/FactoryPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-              <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Strategy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/Strategy.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/interfaceAdapter/Adapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="276">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StrategyPatternDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/StrategyPatternDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/interfaceAdapter/Ashili.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="115">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Staff.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StrategyPattern/blogs/Staff.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/interfaceAdapter/Clienter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GrantReward.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StrategyPattern/blogs/GrantReward.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/blogs/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryObserver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/BinaryObserver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="207">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -186,8 +186,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -229,6 +229,12 @@
         <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/blogs/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/StrategyPattern/blogs/Staff.java" />
         <option value="$PROJECT_DIR$/src/main/java/StrategyPattern/blogs/GrantReward.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Factory/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Factory/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Factory/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Factory/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Factory/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Factory/FactoryPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -245,15 +251,12 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -261,7 +264,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,46 +296,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ObserverPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ObserverPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="blogs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="StrategyPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="StrategyPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="w3cdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Factory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539136666232" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539229540877" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -340,6 +317,160 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/StrategyPattern/Context.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/StrategyPattern/OperationAdd.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/StrategyPattern/OperationMultiply.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/StrategyPattern/OperationSubstract.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/StrategyPattern/Strategy.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/StrategyPattern/StrategyPatternDemo.class</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/blogs/Observer.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/blogs/Observerable.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/blogs/Test.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/blogs/User.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/blogs/WechatServer.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/BinaryObserver.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/HexaObserver.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/Observer.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/ObserverPatternDemo.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/OctalObserver.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/Subject.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/blogs/GrantReward.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/blogs/Staff.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/Context.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/OperationAdd.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/OperationMultiply.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/OperationSubstract.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/Strategy.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/w3cdemo/StrategyPatternDemo.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/BinaryObserver.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/HexaObserver.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/Observer.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/ObserverPatternDemo.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/OctalObserver.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/ObserverPattern/Subject.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/Context.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/OperationAdd.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/OperationMultiply.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/OperationSubstract.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/Strategy.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/StrategyPattern/StrategyPatternDemo.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/ObserverPattern/BinaryObserver.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/ObserverPattern/HexaObserver.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/ObserverPattern/Observer.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/ObserverPattern/ObserverPatternDemo.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/ObserverPattern/OctalObserver.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/ObserverPattern/Subject.class</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -353,7 +484,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.FactoryPatternDemo">
     <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdapterPattern.AdapterPatternDemo" />
       <module name="Designpattern" />
@@ -363,6 +494,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Clienter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdapterPattern.classAdapter.Clienter" />
@@ -373,6 +507,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factory.FactoryPatternDemo" />
+      <module name="Designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObserverPattern.w3cDemo.ObserverPatternDemo" />
@@ -383,16 +533,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="StrategyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StrategyPattern.w3cdemo.StrategyPatternDemo" />
-      <module name="Designpattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StrategyPattern.w3cdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObserverPattern.blogs.Test" />
@@ -403,21 +546,24 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StrategyPatternDemo" />
       <item itemvalue="Application.ObserverPatternDemo" />
       <item itemvalue="Application.AdapterPatternDemo" />
       <item itemvalue="Application.Clienter" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.FactoryPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactoryPatternDemo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Clienter" />
         <item itemvalue="Application.AdapterPatternDemo" />
         <item itemvalue="Application.ObserverPatternDemo" />
-        <item itemvalue="Application.StrategyPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -438,40 +584,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11647000" />
+    <option name="totallyTimeSpent" value="12815000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292011" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292011" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,70 +627,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/HexaObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="82" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/classAdapter/Ps2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/classAdapter/Usb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/classAdapter/Usber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/classAdapter/Clienter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/BinaryObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/w3cDemo/OctalObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/classAdapter/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Observer.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -573,10 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -598,10 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,11 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,12 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="37" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="37" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,11 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,10 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,10 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -738,10 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,12 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,6 +809,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/objectAdapter/Usbip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Factory/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Factory/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Factory/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Factory/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/objectAdapter/Clienter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Factory/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AdapterPattern/interfaceAdapter/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Factory/FactoryPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
